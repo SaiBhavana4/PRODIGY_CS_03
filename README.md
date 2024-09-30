@@ -34,10 +34,6 @@ Based on these factors, the tool will rate your password as Very Strong, Strong,
 
 This project requires Python 3.x to run. No additional external libraries are needed, as the tool relies on Python's standard library.
 
-# Contributing
-
-Contributions to improve the tool are welcome! Feel free to fork the repository, make your changes, and submit a pull request. If you find any issues, please open an issue on the GitHub page.
-
 # Disclaimer
 
 This tool is for educational purposes and personal use to ensure password strength. It should not be used to enforce or bypass security measures without proper authorization.
